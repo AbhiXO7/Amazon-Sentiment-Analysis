@@ -1,0 +1,89 @@
+================================================================================
+AMAZON PRODUCT REVIEW ANALYSIS - SUMMARY REPORT
+================================================================================
+
+OVERALL SUMMARY
+--------------------------------------------------------------------------------
+Total Reviews: 82
+Average Rating: 4.28/5.0
+Recommendation Score: 78.7/100
+
+Sentiment Distribution:
+  Positive: 81.7%
+  Neutral:  6.1%
+  Negative: 12.2%
+
+
+================================================================================
+TOP PROS (What Customers Love)
+================================================================================
+1. [2x] nice product
+2. [2x] is very good
+3. [2x] good product
+4. [1x] is a great smartwatch from fastrackit looks very premiumthe amoled display is of great qualityaod feature is available thanks to amoled screenaod is visible even in direct sunlightbattery life is also amazingcharges quicklyoverall a great product from fastrack
+5. [1x] good quality.
+6. [1x] features ate not the best but most useful ones are working well with smooth sensor.
+7. [1x] nice product with affordable price most important thing this watch is premium look lots of sports activity touch quality is very smooth call speaker are also good
+8. [1x] good product with many featuresthe dial is big not suitable for medium or small frame guys, if that doesnt matter its a great product.
+9. [1x] battery life is amazing, almost lasted a week
+10. [1x] overall experience of the watch is good for the price but range of connection is not that great ,it gets disconnected after a certain range of distance from the phone which is not that much greater distance but speaker quality, step accuracy, fitness and overall experience is good
+11. [1x] the watch qualities is super best
+12. [1x] good for using
+13. [1x] watch is best in look and it has almost all features like call videos music etc it is very good in touch its sound is ok ok it has value of money this is best watch to buy
+14. [1x] worth a buy
+15. [1x] nice been using it for 4 years
+
+================================================================================
+TOP CONS (What Customers Dislike)
+================================================================================
+1. [1x] dont think its accurate...its approximate.
+2. [1x] after buying it only one time it was worked and after that charger not working.
+3. [1x] i face hanging problem in this watch how can i fix it?
+4. [1x] i have return this item, but still amount is not refunded
+5. [1x] does its work.it doesnt feel premium neither cheap.
+6. [1x] i purchased it to track swimming, which claimed as one of the sports mode, but it does not.
+7. [1x] worst its not working after some days
+8. [1x] appealing designsuperb lookgreat feelonly problem i faced was pairing the app and watch but it happened finally after 12 resets of the watch
+9. [1x] battery goodpower saving mode goodgps not availablein metal strap more waitin packing to be add the silicon strapheart rate, spo2 not working properly
+10. [1x] is watch dont have msg tracking like whats up and normal msgs
+11. [1x] however, like all smartwatches, its not 100 accurate in step countingit adds steps while traveling on metro, buses, or bikes.
+12. [1x] chrger wire jas problem
+13. [1x] why did you pick this product vs others?watch is good and ok.but box i received it in was not sealed.seal was already broken.although watch is new only so i accepted and did not raise any issue regarding product as i was in mumbai for that day only..no damage was found.it hurts little bit to know that same watch may have been sent to someone first and then they sent the same one to me when that person returned it back.
+
+================================================================================
+TOPIC-BASED SUMMARIES
+================================================================================
+
+Topic 1:
+  Reviews: 27
+  Avg Sentiment: 0.532
+  Avg Rating: 4.33/5.0
+  Summary: product is very good product is very good good product good quality good serves good product according this price range product looks neat and gui looks good and clean compared to boat but touch response is not good as boat brand
+
+Topic 2:
+  Reviews: 17
+  Avg Sentiment: 0.521
+  Avg Rating: 4.59/5.0
+  Summary: nice nice fully satisfied very nice very very very nice nice and comfortable daily use
+
+Topic 3:
+  Reviews: 23
+  Avg Sentiment: 0.347
+  Avg Rating: 4.17/5.0
+  Summary: battery goodpower saving mode goodgps not availablein metal strap more waitin packing to be add the silicon strapheart rate, spo2 not working properly the watch is looking great display is smooth overall it is worth buying. its a good watch in this price. the silver design is sleek and the battery life is impressive. it offers the typical features of most smartwatches, including alarm, step tracking and goalsetting for walking. however, like all smartwatches, its not 100 accurate in step countingit adds steps while traveling on metro, buses, or bikes.
+
+Topic 4:
+  Reviews: 5
+  Avg Sentiment: 0.438
+  Avg Rating: 4.00/5.0
+  Summary: worth worth a buy good can buy it worth for money using currently in future god knows good for using good but not worth instead buy a cheaper one and display is good
+
+Topic 5:
+  Reviews: 10
+  Avg Sentiment: 0.240
+  Avg Rating: 4.00/5.0
+  Summary: i have return this item, but still amount is not refunded ok good. value for money fine. but i wanted item with belt nice product. value for money. best brand in smart watches.
+
+================================================================================
+END OF REPORT
+================================================================================

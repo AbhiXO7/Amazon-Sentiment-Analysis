@@ -1,0 +1,37 @@
+# Web Scraping (Already done)
+selenium==4.15.2
+beautifulsoup4==4.12.2
+webdriver-manager==4.0.1
+
+# Data Processing
+pandas==2.1.3
+numpy==1.26.2
+
+# NLP Libraries (Classical - NO TRANSFORMERS)
+nltk==3.8.1
+spacy==3.7.2
+gensim==4.3.2
+textblob==0.17.1
+
+# Language Detection & Translation (Non-Transformer)
+langdetect==1.0.9
+googletrans==3.1.0a0
+deep-translator==1.11.4
+
+# Machine Learning (Classical)
+scikit-learn==1.3.2
+scipy==1.11.4
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+wordcloud==1.9.3
+plotly==5.18.0
+
+# Deep Learning (for LSTM only)
+tensorflow==2.15.0
+keras==2.15.0
+
+# Utilities
+tqdm==4.66.1
+openpyxl==3.1.2
